@@ -1,5 +1,13 @@
 # 환경 변수
 .env
 
+# Python cache
+__pycache__/
+*.pyc
+
+# 가상환경
+.venv/
+venv/
+
 # 목업 데이터 (로컬 테스트용)
 data/
